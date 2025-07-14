@@ -1,4 +1,4 @@
-# Adaboost_SAMME-Java-
+# Adaboost_SAMME_Java
 An Adaboost SAMME model built entirely from scratch without any fancy libraries other than Java's built-in packages
 
 
